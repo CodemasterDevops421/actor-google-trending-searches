@@ -1,4 +1,5 @@
 
+
 ```markdown
 # 🚀 Google Trending Searches Actor
 
@@ -6,27 +7,27 @@
 
 Discover what the world is searching for with the Google Trending Searches Actor. This tool enables you to automatically track and extract trending search queries from Google, ensuring you're always up-to-date with the latest topics and trends.
 
-## Key Features:
+## Key Features
 
 - **Real-Time Updates**: Automatically receive the latest trending searches as they're updated by Google.
 - **Global Insights**: Get trending searches from various regions and languages, allowing a global perspective or localized insights.
 - **Customizable Tracking**: Focus on specific regions or categories to tailor the data to your needs.
 
-## How It Works:
+## How It Works
 
 Configure your preferences for regions and languages in the input settings, and let the actor do the rest. It's that simple!
 
-## Applications:
+## Applications
 
 - **Market Research**: Understand market trends to better align your products and marketing efforts.
 - **Content Creation**: Generate content that matches current search trends to increase engagement.
 - **SEO Optimization**: Enhance your SEO strategy by integrating trending keywords and topics.
 
-## Setup:
+## Setup
 
 Set up the actor to run at your preferred intervals—daily, weekly, or on-demand—to ensure you never miss out on important trends.
 
-## Data Output:
+## Data Output
 
 The actor outputs data in various formats such as JSON, CSV, or HTML, making it easy to integrate into your existing workflows.
 
